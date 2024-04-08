@@ -14,8 +14,8 @@ class User():
     def __init__(self, user):
 
 class UserNameChanger():
-  def__init__(self, user)
-  self.user = user
+    def __init__(self, user):
+    self.user = user
 
   def change_name(self, new_name):
     self.user = new_name
